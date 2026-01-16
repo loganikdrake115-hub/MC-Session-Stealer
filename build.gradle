@@ -23,7 +23,7 @@ sourceCompatibility = targetCompatibility = 1.8 //using java 8
 compileJava.options.encoding = "UTF-8"
 
 minecraft {
-    version = "1.8.9-11.15.1.2318-1.8.9"
+    version = "1.21.4-11.15.1.2318-1.21.4"
     runDir = "run"
     mappings = "stable_22" //mappings for 1.8.9
     makeObfSourceJar = false //disable creation of sources jar
